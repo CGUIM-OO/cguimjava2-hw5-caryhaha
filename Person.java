@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-
 public abstract class Person {
 	private ArrayList<Card> oneRoundCard;
 	public void setOneRoundCard(ArrayList<Card> cards){
